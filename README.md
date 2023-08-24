@@ -21,6 +21,10 @@ Welcome to PaperArchive, a repository showcasing a collection of research papers
 
 **Felipe Alfonso González** - Computer Science Engineer MSc.(c) Big Data  
 Email: [f.alfonso@res-ear.ch](mailto:f.alfonso@res-ear.ch)
+X (Twitter): [@felipealfonsog](https://twitter.com/felipealfonsog)
+Linkedin: [/io/felipealfonsog](https://linkedin.com/in/felipealfonsog)
+Website: [glzengrg.com](https://glzengrg.com)
+Website: [freeshell](https://freeshell.de/felipe)
 
 #### License and Usage
 
