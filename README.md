@@ -24,7 +24,7 @@ Welcome to PaperArchive, a repository showcasing a collection of research papers
 - X (Twitter): [@felipealfonsog](https://twitter.com/felipealfonsog) 
 - Linkedin: [/in/felipealfonsog](https://linkedin.com/in/felipealfonsog) 
 - Website: [glzengrg.com](https://glzengrg.com) 
-- Website: [freeshell](https://freeshell.de/felipe) 
+- Website: [freeshell](https://freeshell.de/~felipe) 
 
 #### License and Usage
 
