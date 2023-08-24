@@ -9,7 +9,6 @@ features a range of topics spanning computer science, engineering,
 and social sciences.
 
 Author
-======
 
      Felipe Alfonso González** - Computer Science Engineer MSc.(c) Big Data  
         Email: [f.alfonso@res-ear.ch](mailto:f.alfonso@res-ear.ch) 
@@ -18,8 +17,8 @@ Author
         Website: [glzengrg.com](https://glzengrg.com) 
         Website: [freeshell](https://freeshell.de/~felipe) 
 
+
 License and Usage
-=================
 
 All papers in this repository are exclusively authored by Felipe Alfonso González. 
 They are provided under the MIT License, with the provision that the works are not 
