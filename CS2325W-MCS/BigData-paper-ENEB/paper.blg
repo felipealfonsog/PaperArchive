@@ -1,0 +1,17 @@
+[1] Config.pm:307> INFO - This is Biber 2.19
+[2] Config.pm:310> INFO - Logfile is 'paper.blg'
+[343] biber:340> INFO - === Fri Oct  6, 2023, 01:43:27
+[398] Biber.pm:419> INFO - Reading 'paper.bcf'
+[651] Biber.pm:979> INFO - Found 8 citekeys in bib section 0
+[723] Biber.pm:4419> INFO - Processing section 0
+[761] Biber.pm:4610> INFO - Looking for bibtex file 'biblio.bib' for section 0
+[764] bibtex.pm:1713> INFO - LaTeX decoding ...
+[789] bibtex.pm:1519> INFO - Found BibTeX data source 'biblio.bib'
+[1030] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1031] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1031] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[1031] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1050] bbl.pm:660> INFO - Writing 'paper.bbl' with encoding 'UTF-8'
+[1063] bbl.pm:763> INFO - Output to paper.bbl
+[1063] Biber.pm:131> WARN - I didn't find a database entry for 'Smith2020' (section 0)
+[1064] Biber.pm:133> INFO - WARNINGS: 1
