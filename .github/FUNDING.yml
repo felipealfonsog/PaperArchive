@@ -1,7 +1,7 @@
 #.github/FUNDING.yml
 github: [felipealfonsog]
 patreon: felipealfonsogl
-paypal: felipealfonsog
+#paypal: felipealfonsog
+custom: ["https://www.paypal.me/felipealfonsog"]
 #tidelift: npm/
-#custom: ["https://www.paypal.me/felipealfonsog"]
-paypal: ["https://www.paypal.me/felipealfonsog"]
+
