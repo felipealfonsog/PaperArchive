@@ -2362,10 +2362,6 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1">ENEB2023</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">Smith2020</bcf:citekey>
-    <bcf:citekey order="2" intorder="2">Johnson2019</bcf:citekey>
-    <bcf:citekey order="2" intorder="3">Brown2021</bcf:citekey>
-    <bcf:citekey order="2" intorder="4">Garcia2022</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

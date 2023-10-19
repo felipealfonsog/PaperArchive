@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.18)  18 OCT 2023 21:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.18)  19 OCT 2023 06:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -674,36 +674,49 @@ LaTeX Info: Redefining \Relbar on input line 971.
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
+(/usr/local/texlive/2023/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write4
+
+Excluding comment 'comment')
 \@quotelevel=\count423
 \@quotereset=\count424
 LaTeX Font Info:    Trying to load font information for T1+pplx on input line 7
-2.
+6.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/t1pplx.fd
 File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
-) (./paper.aux)
+) (./paper.aux
+
+LaTeX Warning: Label `fig:etiqueta' multiply defined.
+
+
+LaTeX Warning: Label `fig:etiqueta' multiply defined.
+
+
+LaTeX Warning: Label `fig:etiqueta' multiply defined.
+
+)
 \openout1 = `paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-
-(/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+ (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count425
 \scratchdimen=\dimen196
@@ -718,16 +731,8 @@ LaTeX Font Info:    ... okay on input line 72.
 \everyMPtoPDFconversion=\toks32
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/grfext/grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
@@ -767,19 +772,19 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 72.
-Package microtype Info: Applying patch `item' on input line 72.
-Package microtype Info: Applying patch `toc' on input line 72.
-Package microtype Info: Applying patch `eqnum' on input line 72.
-Package microtype Info: Applying patch `footnote' on input line 72.
-Package microtype Info: Applying patch `verbatim' on input line 72.
+LaTeX Info: Redefining \microtypecontext on input line 76.
+Package microtype Info: Applying patch `item' on input line 76.
+Package microtype Info: Applying patch `toc' on input line 76.
+Package microtype Info: Applying patch `eqnum' on input line 76.
+Package microtype Info: Applying patch `footnote' on input line 76.
+Package microtype Info: Applying patch `verbatim' on input line 76.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 72.
+LaTeX Info: Redefining \showhyphens on input line 76.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -804,13 +809,34 @@ Package biblatex Info: ... file 'paper.bbl' found.
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
+(biblatex)                Brown2021
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Garcia2022
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Johnson2019
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
 (biblatex)                Smith2020
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
 )
-Package biblatex Info: Reference section=0 on input line 72.
-Package biblatex Info: Reference segment=0 on input line 72.
+Package biblatex Info: Reference section=0 on input line 76.
+Package biblatex Info: Reference segment=0 on input line 76.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -823,38 +849,38 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 149.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 72.
+Package hyperref Info: Link coloring ON on input line 76.
 
 (./paper.out) (./paper.out)
-\@outlinefile=\write4
-\openout4 = `paper.out'.
+\@outlinefile=\write5
+\openout5 = `paper.out'.
 
 LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 
-75.
+79.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-75.
+79.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-75.
+79.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-75.
+79.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-75.
+79.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
@@ -864,7 +890,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 
-75.
+79.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1pplx.fd
 File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
@@ -873,29 +899,56 @@ File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
 
 
 ]
-<./images/graph-mkt.jpg, id=83, 399.4925pt x 291.0875pt>
+<./images/graph-mkt.jpg, id=103, 399.4925pt x 291.0875pt>
 File: ./images/graph-mkt.jpg Graphic file (type jpg)
 <use ./images/graph-mkt.jpg>
-Package pdftex.def Info: ./images/graph-mkt.jpg  used on input line 107.
+Package pdftex.def Info: ./images/graph-mkt.jpg  used on input line 109.
 (pdftex.def)             Requested size: 162.29318pt x 118.254pt.
+ [2 <./images/graph-mkt.jpg>]
+[3]
+<./images/bgmkt.jpg, id=113, 680.5425pt x 922.44624pt>
+File: ./images/bgmkt.jpg Graphic file (type jpg)
+<use ./images/bgmkt.jpg>
+Package pdftex.def Info: ./images/bgmkt.jpg  used on input line 234.
+(pdftex.def)             Requested size: 162.29318pt x 219.98409pt.
+ [4 <./images/bgmkt.jpg>] [5]
+<./images/ex-mailmkt.jpg, id=125, 673.51625pt x 546.04pt>
+File: ./images/ex-mailmkt.jpg Graphic file (type jpg)
+<use ./images/ex-mailmkt.jpg>
+Package pdftex.def Info: ./images/ex-mailmkt.jpg  used on input line 365.
+(pdftex.def)             Requested size: 162.29318pt x 131.57718pt.
 
 
-LaTeX Warning: Citation 'Smith2020' on page 2 undefined on input line 156.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-[2 <./images/graph-mkt.jpg>] [3
+[6 <./images/ex-mailmkt.jpg>]
+Underfull \hbox (badness 1371) in paragraph at lines 404--405
+\T1/pplx/m/n/10 (+20) aprovechar las ca-paci-dades de las apli-ca-ciones
+ []
+
+<./images/spostar.jpg, id=132, 506.89375pt x 370.38374pt>
+File: ./images/spostar.jpg Graphic file (type jpg)
+<use ./images/spostar.jpg>
+Package pdftex.def Info: ./images/spostar.jpg  used on input line 415.
+(pdftex.def)             Requested size: 162.29318pt x 118.58173pt.
+
+Underfull \vbox (badness 1721) has occurred while \output is active []
+
+
+Excluding 'comment' comment.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7 <./images/spostar.jpg>] [8
 
 ] (./paper.aux)
 
 LaTeX Warning: There were undefined references.
 
 
-Package rerunfilecheck Warning: File `paper.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: Checksums for `paper.out':
-(rerunfilecheck)             Before: 59BD4496A8B0F51F296ECD3F776B85FF;3173
-(rerunfilecheck)             After:  F5B6D96B1348DF96ED08A6D53346A167;1168.
+Package rerunfilecheck Info: File `paper.out' has not changed.
+(rerunfilecheck)             Checksum: B3E99694370C85509DF2DCA25BA5B919;3577.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                paper
@@ -906,72 +959,20 @@ Package logreq Info: Writing requests to 'paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22225 strings out of 476025
- 389014 string characters out of 5790017
+ 22287 strings out of 476025
+ 389085 string characters out of 5790017
  1871388 words of memory out of 5000000
- 41994 multiletter control sequences out of 15000+600000
- 582475 words of font info for 334 fonts, out of 8000000 for 9000
+ 42007 multiletter control sequences out of 15000+600000
+ 584941 words of font info for 367 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 78i,13n,82p,1002b,1403s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{section*.17} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.16} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.15} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.14} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.13} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.12} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.11} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.10} has been referenced but does not ex
-ist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.9} has been referenced but does not exist,
- replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.8} has been referenced but does not exi
-st, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.7} has been referenced but does not exi
-st, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.6} has been referenced but does not exi
-st, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection*.5} has been referenced but does not exi
-st, replaced by a fixed one
-
-</usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/l
-ocal/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/te
-xlive/2023/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on paper.pdf (3 pages, 86077 bytes).
+ 78i,13n,82p,1002b,1215s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr
+/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/
+texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on paper.pdf (8 pages, 515122 bytes).
 PDF statistics:
- 131 PDF objects out of 1000 (max. 8388607)
- 117 compressed objects within 2 object streams
- 32 named destinations out of 1000 (max. 500000)
- 119942 words of extra memory for PDF output out of 128383 (max. 10000000)
+ 170 PDF objects out of 1000 (max. 8388607)
+ 145 compressed objects within 2 object streams
+ 35 named destinations out of 1000 (max. 500000)
+ 119997 words of extra memory for PDF output out of 128383 (max. 10000000)
 
