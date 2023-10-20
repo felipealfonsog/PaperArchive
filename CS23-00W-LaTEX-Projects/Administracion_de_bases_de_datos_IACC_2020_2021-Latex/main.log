@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.18)  24 AUG 2023 18:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.18)  19 OCT 2023 23:37
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
@@ -616,13 +617,13 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count298
 \l__pdf_internal_box=\box64
 )
-No file main.aux.
+(./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/pxmi/m/it on input line 27.
 LaTeX Font Info:    Trying to load font information for OML+pxmi on input line 
 27.
-(/usr/local/texlive/2023/texmf-dist/tex/latex/pxfonts/omlpxmi.fd
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/pxfonts/omlpxmi.fd
 File: omlpxmi.fd 2000/12/14 v1.0
 )
 LaTeX Font Info:    ... okay on input line 27.
@@ -847,8 +848,8 @@ _c8abde8d9a9b3e6dd50b624087cada04.png (PNG copy)> <./latexImage_f43fcf35e77d94b
 b17669589d1e61f00.png (PNG copy)> <./latexImage_408ff130a82c4122fdc9c8aefbc6050
 c.png (PNG copy)>] [8] [9] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 16961 strings out of 476025
- 327774 string characters out of 5790017
+ 16963 strings out of 476025
+ 327792 string characters out of 5790017
  1867388 words of memory out of 5000000
  37085 multiletter control sequences out of 15000+600000
  531015 words of font info for 80 fonts, out of 8000000 for 9000
