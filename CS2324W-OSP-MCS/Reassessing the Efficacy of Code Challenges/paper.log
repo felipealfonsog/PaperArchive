@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.12.18)  1 JAN 2024 21:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.12.18)  2 JAN 2024 03:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -853,40 +853,49 @@ LaTeX Font Info:    Trying to load font information for TS1+pplx on input line
 
 (/usr/share/texmf-dist/tex/latex/psnfss/ts1pplx.fd
 File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
-) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/f
-onts/enc/dvips/base/8r.enc}
+)
+Underfull \vbox (badness 5578) has occurred while \output is active []
+
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fo
+nts/enc/dvips/base/8r.enc}
 
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2]
-Underfull \vbox (badness 7326) has occurred while \output is active []
-
-
-Underfull \hbox (badness 1990) in paragraph at lines 167--169
+] [2]
+Underfull \hbox (badness 1990) in paragraph at lines 171--173
 \T1/pplx/m/n/10 (+20) heav-ily em-pha-size al-go-rith-mic problem-solving.
  []
 
 [3] [4]
-Underfull \hbox (badness 1953) in paragraph at lines 251--252
+Underfull \hbox (badness 1953) in paragraph at lines 255--256
 []\T1/pplx/m/n/10 (+20) The con-cept of eval-u-at-ing tech-ni-cal abil-i-ties
  []
 
-[5]
-Underfull \hbox (badness 2261) in paragraph at lines 294--296
+
+Underfull \vbox (badness 1194) has occurred while \output is active []
+
+ [5]
+Underfull \vbox (badness 7486) has occurred while \output is active []
+
+ [6]
+Underfull \hbox (badness 1509) in paragraph at lines 292--293
+[] []\T1/pplx/b/n/10 (+20) Nar-row Fo-cus and In-com-plete As-sess-ment[] \T1/p
+plx/m/n/10 (+20) A
+ []
+
+[7]
+Underfull \hbox (badness 2261) in paragraph at lines 327--329
 \T1/pplx/m/n/10 (+20) for spe-cific projects. Demon-strat-ing learn-ing
  []
 
-
-Underfull \vbox (badness 1515) has occurred while \output is active []
-
- [6]
-[7] [8]
+[8] [9] [10]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9]
-[10] [11] [12] [13] Excluding 'comment' comment. [14] (./paper.aux)
+ [11]
+[12] [13] [14]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+Excluding 'comment' comment. [16] (./paper.aux)
 Package rerunfilecheck Info: File `paper.out' has not changed.
 (rerunfilecheck)             Checksum: 58CFDA4646F0F9199116BCA23A41A918;6489.
 Package logreq Info: Writing requests to 'paper.run.xml'.
@@ -894,8 +903,8 @@ Package logreq Info: Writing requests to 'paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22340 strings out of 477985
- 387076 string characters out of 5840057
+ 22342 strings out of 477985
+ 387090 string characters out of 5840057
  1871388 words of memory out of 5000000
  41766 multiletter control sequences out of 15000+600000
  593621 words of font info for 403 fonts, out of 8000000 for 9000
@@ -905,10 +914,10 @@ Here is how much of TeX's memory you used:
 exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/font
 s/type1/urw/palatino/uplb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino
 /uplr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on paper.pdf (14 pages, 153271 bytes).
+Output written on paper.pdf (16 pages, 163327 bytes).
 PDF statistics:
- 219 PDF objects out of 1000 (max. 8388607)
- 191 compressed objects within 2 object streams
- 45 named destinations out of 1000 (max. 500000)
+ 227 PDF objects out of 1000 (max. 8388607)
+ 197 compressed objects within 2 object streams
+ 47 named destinations out of 1000 (max. 500000)
  131249 words of extra memory for PDF output out of 154059 (max. 10000000)
 
